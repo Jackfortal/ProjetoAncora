@@ -1,15 +1,12 @@
-#div1{
-    background-color: red;
-    height: 100px;
-    width: 100px;
-}
-.div2{
-    background-color: green;
-    height: 100px;
-    width: 100px;
-}
 div{
-    background-color: yellow;
-    height: 100px;
-    width: 100px;
+    background-color: rgb(91, 75, 75);
+    height: 400px;
+}
+p{
+    color: rgb(16, 15, 15);
+    font-size: 3em;
+
+}
+body{
+    background-color: chartreuse;
 }
